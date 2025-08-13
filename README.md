@@ -235,6 +235,16 @@ Use the GUI for ease of interaction or run in headless CLI mode.
 
 ---
 
+## 🖼️ Project Snapshots
+
+### 📌 AURIX UI
+![Data Cleaning Screenshot](https://github.com/Sojwal27/AURIX-personal_desktop_AI_assistant/blob/main/assest/UI.png)
+
+### 📌 With System Intraction
+![Dashboard Screenshot](https://github.com/Sojwal27/AURIX-personal_desktop_AI_assistant/blob/main/assest/System_intraction.png)
+
+---
+
 ## 🙌 Contributing
 
 We ❤️ contributors! Here's how you can help:
